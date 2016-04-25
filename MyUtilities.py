@@ -6,11 +6,7 @@ Created on 2015.12.09.
 '''
 
 """
-""""""
-""""""""
 Imports
-""""""""
-""""""
 """
 import os
 import heapq
@@ -32,11 +28,7 @@ from MyPlotter import *
 
 
 """
-""""""
-""""""""
 Functions
-""""""""
-""""""
 """
 
 

@@ -159,7 +159,6 @@ def precoverageOptimalizationMatrix(input_matrix, maxNumberOfTests, coverageToAc
 """
 Calculates the maximal possible coverage for the input matrix.
 """
-
 def maximalCoverageCalculator(input_matrix):
 	numberOfColumns = input_matrix.shape[1]
 	procSum = list(sum(input_matrix))

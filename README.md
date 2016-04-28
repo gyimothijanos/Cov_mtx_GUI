@@ -1,8 +1,8 @@
 # Cov_mtx_GUI
 
-#This program is a General User Interface wrote in python using the Tkinter package.
-#It is dedicated to make coverage matrix analyzation easier.
-#It has two main modules : 
+# This program is a General User Interface wrote in python using the Tkinter package.
+# It is dedicated to make coverage matrix analyzation easier.
+# It has two main modules : 
 #   I. Plotting
 #     1. Histogram plotting
 #     2. ECDF graph plotting (Empirical Cumulative Distribution Function)
